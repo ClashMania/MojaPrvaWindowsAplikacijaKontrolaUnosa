@@ -1,0 +1,22 @@
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\bin\Debug\MojaPrvaWindowsAplikacija.exe.config
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\bin\Debug\MojaPrvaWindowsAplikacija.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\bin\Debug\MojaPrvaWindowsAplikacija.pdb
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.exe
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.pdb
+C:\Users\Ucenik\Desktop\Ruben Hamza\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.Form1.resources
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\bin\Debug\MojaPrvaWindowsAplikacija.exe.config
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\bin\Debug\MojaPrvaWindowsAplikacija.exe
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\bin\Debug\MojaPrvaWindowsAplikacija.pdb
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.AssemblyReference.cache
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.Form1.resources
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.Properties.Resources.resources
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.GenerateResource.cache
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.exe
+C:\Users\heist\Downloads\MojaPrvaWindowsAplikacija-main\MojaPrvaWindowsAplikacija\obj\Debug\MojaPrvaWindowsAplikacija.pdb
