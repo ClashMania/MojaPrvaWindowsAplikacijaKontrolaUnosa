@@ -21,6 +21,10 @@ namespace MojaPrvaWindowsAplikacija
         {
             int BrojA, BrojB, Zbroj;
 
+             private void btnIzracun_Click(object sender, EventArgs e)
+       {
+            int BrojA, BrojB, Zbroj;
+
             try
             {
 
@@ -33,8 +37,17 @@ namespace MojaPrvaWindowsAplikacija
             }
             catch(Exception greska)
             {
-                Greska.Text = "Neispravni upis \r\nGreška: " +greska.Message;
+                string text = "Molim upisati broj. \n" + greska.Message;
+                string naslov = "Pogrešan unos";
+                MessageBoxButtons buttons = MessageBoxButtons.OK;
+                MessageBoxIcon icon = MessageBoxIcon.Error;
+                MessageBox.Show(text, naslov, buttons, icon);
             }
+
+
+
+
+        }
 
 
 
